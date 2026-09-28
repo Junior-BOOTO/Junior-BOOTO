@@ -21,6 +21,10 @@ J'apprends Python et j'explore ses applications à l'analyse de données. Mes ca
 
 🐍 [Voir mes notebooks Python](https://github.com/Junior-BOOTO/python.skills)
 
+## CV
+
+[Consulter mes CV publics en français, anglais et espagnol](cv/README.md)
+
 ## Parcours et collaboration
 
 Je suis certifié en didactique du FLE par l'Université de Liège et je poursuis ma formation en pédagogie, inclusion et outils numériques. Je m'intéresse aux échanges entre enseignants, à la création de ressources ouvertes et aux usages réfléchis de la technologie en éducation.
