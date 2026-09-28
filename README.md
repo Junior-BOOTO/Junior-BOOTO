@@ -12,6 +12,9 @@ Je suis enseignant de français en Colombie. J'accompagne des élèves du primai
 
 📚 [Portfolio d'enseignement FLE](https://github.com/Junior-BOOTO/portfolio-fle)
 
+- [Progressions de FLE pour cours particuliers](https://github.com/Junior-BOOTO/cours-prives-fle)
+- [Progressions d'anglais pour cours particuliers](https://github.com/Junior-BOOTO/cours-prives-anglais)
+
 ## Python et analyse de données
 
 J'apprends Python et j'explore ses applications à l'analyse de données. Mes carnets publics couvrent les bases du langage, Pandas et scikit-learn.
