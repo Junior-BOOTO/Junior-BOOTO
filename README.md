@@ -28,7 +28,7 @@ J'apprends Python et j'explore ses applications à l'analyse de données. Mes ca
 
 ## CV
 
-[Présentation des trois versions de CV](cv/README.md)
+[Télécharger mes CV publics en français, anglais et espagnol](cv/README.md)
 
 ## Parcours et collaboration
 
