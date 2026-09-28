@@ -21,9 +21,14 @@ J'apprends Python et j'explore ses applications à l'analyse de données. Mes ca
 
 🐍 [Voir mes notebooks Python](https://github.com/Junior-BOOTO/python.skills)
 
+## Certifications
+
+- [FLE et pédagogie](https://github.com/Junior-BOOTO/portfolio-fle/blob/main/certifications-fle.md)
+- [Python, données et IA](https://github.com/Junior-BOOTO/python.skills/blob/main/certifications-python-data.md)
+
 ## CV
 
-[Consulter mes CV publics en français, anglais et espagnol](cv/README.md)
+[Présentation des trois versions de CV](cv/README.md)
 
 ## Parcours et collaboration
 
