@@ -21,6 +21,10 @@ J'apprends Python et j'explore ses applications à l'analyse de données. Mes ca
 
 🐍 [Voir mes notebooks Python](https://github.com/Junior-BOOTO/python.skills)
 
+## Blog professionnel
+
+✍️ [Carnets de pratique · FLE et Python](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/blog) : mes choix de conception pédagogique et mes démarches d’analyse, avec résumés en anglais et en espagnol.
+
 ## Certifications
 
 - [FLE et pédagogie](https://github.com/Junior-BOOTO/portfolio-fle/blob/main/certifications-fle.md)
