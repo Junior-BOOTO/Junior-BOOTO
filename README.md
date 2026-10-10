@@ -3,7 +3,7 @@
 
 Je conçois des parcours de français qui relient objectifs communicatifs, activités différenciées et critères de réussite observables. Ce portfolio rassemble mes supports, mes choix de conception et mes explorations numériques.
 
-[English version](README.en.md) · [Portfolio FLE](https://github.com/Junior-BOOTO/portfolio-fle) · [Python et données](https://github.com/Junior-BOOTO/python.skills) · [CV](cv/README.md)
+[Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [English version](README.en.md) · [Portfolio FLE](https://github.com/Junior-BOOTO/portfolio-fle) · [Python et données](https://github.com/Junior-BOOTO/python.skills) · [CV](cv/README.md)
 
 ## Deux domaines complémentaires
 
