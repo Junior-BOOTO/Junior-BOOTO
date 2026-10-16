@@ -9,10 +9,14 @@ I design French learning activities that connect communicative goals, differenti
 
 | Project | Evidence available | Status |
 | --- | --- | --- |
-| [FLE–AI ecosystem](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/ecosysteme-fle-ia) | Assistant roles, learning design documentation and teacher validation criteria. | Published documentation; individual uses and outcomes remain to be recorded. |
-| [Studio FLE PRO: daily routines](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/gpts-pedagogiques/studio-fle-pro) | A1 PowerPoint, differentiated tasks and teacher notes. | Designed teaching resource, awaiting classroom trials; illustrates the intended output. |
-| [Natural landscapes: A1](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/paysages-naturels-4e-a1) | Sequence, assessment tasks, answer keys and scaffolds. | Published design; classroom outcomes not documented. |
-| [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Fictional data, Python scripts, chart and teaching interpretation. | Executable demonstration; no measured real learning impact. |
+| [FLE Resource Studio](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-resource-studio) | Differentiated teacher/learner resources, FR/ES/EN catalogue and local Python API. | Documented prototype; teacher review and classroom trials pending. |
+| [FLE–AI ecosystem](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/ecosysteme-fle-ia) | Assistant roles, learning design documentation and teacher validation. | Published documentation; specific uses and outcomes to record. |
+| [Studio FLE PRO: daily routines](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/gpts-pedagogiques/studio-fle-pro) | A1 PowerPoint, scaffolds and teacher notes. | Designed resource awaiting trials; does not establish GPT operation. |
+| [Portfolio File Guardian](https://github.com/Junior-BOOTO/python.skills/tree/main/portfolio-file-guardian) | SHA-256 inventory, dry runs, copying and logged restoration. | Local prototype; synthetic demonstration and documented tests. |
+| [Portfolio Evidence Hub](https://github.com/Junior-BOOTO/python.skills/tree/main/portfolio-evidence-hub) | Evidence registry, read-only audit and dashboard. | Dated snapshot; no quality or expertise certification. |
+| [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Fictional data, Python scripts, chart and teaching interpretation. | Demonstration; no measured real learning impact. |
+
+[Full teaching catalogue](https://github.com/Junior-BOOTO/portfolio-fle/blob/main/CATALOGUE.md) · [Python projects by domain](https://github.com/Junior-BOOTO/python.skills/blob/main/CATALOGUE.md)
 
 ## Skills demonstrated
 
