@@ -15,17 +15,21 @@ Je conçois des parcours de français qui relient objectifs communicatifs, activ
 
 | Projet | Ce que vous pouvez examiner | Statut |
 | --- | --- | --- |
-| [Écosystème FLE–IA](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/ecosysteme-fle-ia) | Articulation d’assistants, dossier d’ingénierie et critères de validation par l’enseignant. | Documentation publiée ; usages précis et résultats à consigner. |
-| [Studio FLE PRO · La routine quotidienne](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/gpts-pedagogiques/studio-fle-pro) | PowerPoint A1, activités, aides progressives et notes enseignant. | Support conçu, à expérimenter ; exemple de production visée. |
-| [Paysages naturels · A1](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/paysages-naturels-4e-a1) | Séquence, supports, corrigés et évaluations distinctes en compréhension et production. | Conception publiée ; résultats de classe non documentés. |
-| [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Données fictives, scripts Python, graphique et interprétation pédagogique. | Démonstrateur exécutable ; aucun effet réel sur l’apprentissage mesuré. |
+| [FLE Resource Studio](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-resource-studio) | Fiches enseignant/apprenant, aides différenciées, catalogue FR/ES/EN et API locale Python. | Prototype documenté ; revue enseignante et expérimentation à réaliser. |
+| [Écosystème FLE–IA](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/projets/ecosysteme-fle-ia) | Missions des assistants, dossier d’ingénierie et validation par l’enseignant. | Documentation publiée ; usages et résultats à consigner. |
+| [Studio FLE PRO · routine A1](https://github.com/Junior-BOOTO/portfolio-fle/tree/main/gpts-pedagogiques/studio-fle-pro) | PowerPoint, activités, aides progressives et notes enseignant. | Support conçu, à expérimenter ; fonctionnement du GPT non établi par cet exemple. |
+| [Portfolio File Guardian](https://github.com/Junior-BOOTO/python.skills/tree/main/portfolio-file-guardian) | Inventaire SHA-256, simulation et organisation par copie avec restauration journalisée. | Prototype local ; démonstration synthétique et tests documentés. |
+| [Portfolio Evidence Hub](https://github.com/Junior-BOOTO/python.skills/tree/main/portfolio-evidence-hub) | Registre de preuves, audit en lecture seule et tableau de bord. | Instantané daté ; aucune certification de qualité ou d’expertise. |
+| [FLE Learning Analytics](https://github.com/Junior-BOOTO/python.skills/tree/main/fle-learning-analytics) | Scripts Python, données fictives, graphique et interprétation pédagogique. | Démonstrateur ; aucun effet réel sur l’apprentissage mesuré. |
+
+[Explorer tous les projets FLE](https://github.com/Junior-BOOTO/portfolio-fle/blob/main/CATALOGUE.md) · [Explorer les projets Python par domaine](https://github.com/Junior-BOOTO/python.skills/blob/main/CATALOGUE.md)
 
 ## Compétences illustrées par les projets
 
 - **Conception pédagogique :** cohérence entre objectifs, tâches et évaluations ; exemples dans les séquences A1 et les progressions.
 - **Différenciation :** banques de mots, modèles et production autonome autour d’un objectif commun.
 - **Documentation d’assistants :** missions, instructions, exemples de demandes et limites ; un dossier GitHub ne remplace pas un GPT utilisable dans ChatGPT.
-- **Analyse avec Python :** préparation et synthèse de données dans un démonstrateur fictif ; notebooks exploratoires pour approfondir les bases, pandas et scikit-learn.
+- **Python et données :** scripts d’automatisation, API locales et analyses documentées ; les tests, démonstrations et limites sont précisés dans chaque projet.
 
 ## Ressources et parcours
 
