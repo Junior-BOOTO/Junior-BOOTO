@@ -3,7 +3,7 @@
 
 I design French learning activities that connect communicative goals, differentiated support and observable assessment criteria. This portfolio documents resources, design decisions and my progress with digital tools.
 
-[Version française](README.md) · [French teaching portfolio](https://github.com/Junior-BOOTO/portfolio-fle) · [Python and data](https://github.com/Junior-BOOTO/python.skills) · [English CV](cv/CV_Public_EN_United_Kingdom.pdf)
+[Version française](README.md) · [Versión en español](README.es.md) · [French teaching portfolio](https://github.com/Junior-BOOTO/portfolio-fle) · [Python and data](https://github.com/Junior-BOOTO/python.skills) · [English CV](cv/CV_Public_EN_United_Kingdom.pdf)
 
 ## Selected work
 
