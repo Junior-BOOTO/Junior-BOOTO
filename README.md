@@ -39,6 +39,11 @@ Je conçois des parcours de français qui relient objectifs communicatifs, activ
 - [Formations FLE et pédagogie](https://github.com/Junior-BOOTO/portfolio-fle/blob/main/certifications-fle.md) · [Formations Python, données et IA](https://github.com/Junior-BOOTO/python.skills/blob/main/certifications-python-data.md). Les pages recensent les formations ; elles ne remplacent pas les attestations originales.
 - CV publics : [Français](cv/CV_Public_FR_France.pdf) · [English](cv/CV_Public_EN_United_Kingdom.pdf) · [Español](cv/CV_Public_ES_Colombia.pdf).
 
+## Contact professionnel
+
+- **E-mail :** [juniorbooto@gmail.com](mailto:juniorbooto@gmail.com)
+- **Téléphone :** [+57 311 428 6372](tel:+573114286372)
+
 ## Échanger et collaborer
 
 Je souhaite développer des ressources FLE, partager des démarches de conception et explorer des applications pédagogiques de l’analyse de données.
