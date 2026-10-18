@@ -32,6 +32,11 @@ GitHub documentation is separate from an assistant actually usable in ChatGPT. P
 
 Public CVs: [French](cv/CV_Public_FR_France.pdf) · [English](cv/CV_Public_EN_United_Kingdom.pdf) · [Spanish](cv/CV_Public_ES_Colombia.pdf).
 
+## Professional contact
+
+- **Email :** [juniorbooto@gmail.com](mailto:juniorbooto@gmail.com)
+- **Phone :** [+57 311 428 6372](tel:+573114286372)
+
 [GitHub](https://github.com/Junior-BOOTO) · [LinkedIn — supplied URL, access not verified](https://www.linkedin.com/in/junior-booto-1a9b3a161/)
 
 I welcome collaboration on French learning resources and educational data demonstrations. Project status and reuse conditions are documented individually.
