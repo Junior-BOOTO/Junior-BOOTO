@@ -5,6 +5,19 @@ Je conçois des parcours de français qui relient objectifs communicatifs, activ
 
 [Site professionnel](https://junior-booto-fle.juniorbooto.chatgpt.site) · [English version](README.en.md) · [Versión en español](README.es.md) · [Portfolio FLE](https://github.com/Junior-BOOTO/portfolio-fle) · [Python et données](https://github.com/Junior-BOOTO/python.skills) · [CV](cv/README.md)
 
+## Applications à essayer sur Render
+
+| Application | Fonction | Accès direct |
+| --- | --- | --- |
+| BOOTO NLP LAB | Analyse de documents et de textes multilingues. | [Ouvrir l’application](https://booto-nlp-lab-zuvr.onrender.com/) |
+| BOOTO Éval’FLE AI | Création d’évaluations pour l’enseignement du français. | [Ouvrir l’application](https://booto-eval-fle-ai.onrender.com/) |
+| BOOTO Correcteur FLE AI | Correction et rétroaction sur les productions écrites en FLE. | [Ouvrir l’application](https://booto-correcteur-fle-ai.onrender.com/) |
+| BOOTO LUDO AI | Création d’activités ludiques pour la classe de FLE. | [Ouvrir l’application](https://booto-ludo-ai.onrender.com/) |
+| Superstore Dashboard | Exploration des performances commerciales avec des filtres interactifs. | [Ouvrir le tableau de bord](https://booto-superstore-dashboard.onrender.com/) |
+| California Housing Lab | Simulation d’estimations immobilières par machine learning sur des données historiques. | [Ouvrir le laboratoire](https://booto-housing-lab.onrender.com/) |
+
+Le premier chargement peut prendre quelques instants. Ces liens renvoient aux services Render ; leur présence ne constitue pas une nouvelle validation fonctionnelle. Les ressources pédagogiques restent à relire par l’enseignant et les estimations immobilières sont des démonstrations sur données historiques.
+
 ## Deux domaines complémentaires
 
 | FLE et ingénierie pédagogique | Python et analyse de données |
