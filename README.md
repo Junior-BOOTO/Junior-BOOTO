@@ -69,3 +69,10 @@ Je souhaite développer des ressources FLE, partager des démarches de conceptio
 [GitHub](https://github.com/Junior-BOOTO) · [LinkedIn — adresse fournie, accès non vérifié](https://www.linkedin.com/in/junior-booto-1a9b3a161/)
 
 Les prototypes sont distingués des usages documentés. Les démonstrations publiques utilisent des exemples fictifs ; les conditions de réutilisation sont à consulter projet par projet.
+
+
+## BrevetAI — niveau découverte · 30 octobre 2026
+
+**Université Paris-Saclay · Badge de réussite délivré par France Université Numérique.** Notions fondamentales : algorithme, modèle et apprentissage. Enjeux sociétaux, environnementaux, légaux, éthiques et scientifiques de l’intelligence artificielle.
+
+[Consulter le badge vérifiable](https://openbadgefactory.com/obv3/credentials/85afcd05082603afd13a151c43964d89e2f57052).
